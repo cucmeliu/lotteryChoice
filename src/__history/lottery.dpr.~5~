@@ -1,0 +1,17 @@
+program lottery;
+
+uses
+  Forms,
+  frmMain in 'frmMain.pas' {Form1},
+  StatGrid in 'StatGrid.pas',
+  sgr_misc in 'sgr_misc.pas',
+  defineUnit in 'defineUnit.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Title := '²ÊÆ±Ñ¡ºÅ»ú';
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

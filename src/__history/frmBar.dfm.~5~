@@ -1,0 +1,33 @@
+object BarForm: TBarForm
+  Left = 0
+  Top = 0
+  BorderStyle = bsDialog
+  Caption = 'BarForm'
+  ClientHeight = 410
+  ClientWidth = 537
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnPaint = FormPaint
+  PixelsPerInch = 96
+  TextHeight = 13
+  object RzDialogButtons1: TRzDialogButtons
+    Left = 0
+    Top = 374
+    Width = 537
+    CaptionOk = 'OK'
+    CaptionCancel = 'Cancel'
+    CaptionHelp = '&Help'
+    HotTrack = True
+    TabOrder = 0
+    ExplicitLeft = 160
+    ExplicitTop = 168
+    ExplicitWidth = 185
+  end
+end

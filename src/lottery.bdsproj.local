@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-02-05 21:45:27.453.pas,D:\document\Borland Studio Projects\Unit1.pas=E:\project\lottery\src\frmMain.pas</Transaction>
+    <Transaction>2010-02-05 21:45:27.453.dfm,D:\document\Borland Studio Projects\Unit1.dfm=E:\project\lottery\src\frmMain.dfm</Transaction>
+    <Transaction>2010-02-05 21:45:32.125.bdsproj,D:\document\Borland Studio Projects\Project1.bdsproj=E:\project\lottery\src\lottery.bdsproj</Transaction>
+    <Transaction>2010-02-09 13:15:03.078.pas,E:\project\彩票选号机\src\Unit1.pas=E:\project\彩票选号机\src\StatGrid.pas</Transaction>
+    <Transaction>2010-02-09 13:18:13.734.pas,E:\project\彩票选号机\src\Unit1.pas=E:\project\彩票选号机\src\defineUnit.pas</Transaction>
+    <Transaction>2010-02-09 13:44:13.093.pas,E:\project\彩票选号机\src\Unit1.pas=E:\project\彩票选号机\src\barGraphi.pas</Transaction>
+    <Transaction>2010-02-09 13:49:21.328.pas,E:\project\彩票选号机\src\Unit2.pas=E:\project\彩票选号机\src\frmBar.pas</Transaction>
+    <Transaction>2010-02-09 13:49:21.328.dfm,E:\project\彩票选号机\src\Unit2.dfm=E:\project\彩票选号机\src\frmBar.dfm</Transaction>
+    <Transaction>2010-02-09 17:14:02.546.pas,E:\project\彩票选号机\src\StatGrid.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
